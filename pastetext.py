@@ -20,11 +20,6 @@ import cgitb; cgitb.enable()  # for troubleshooting
 
 #################################################################
 
-
-
-
-#################################################################
-
 def unixbasename(filename, extension):
     lenfilename = len(filename)
 
@@ -102,7 +97,7 @@ def main():
 
     print('<br>')
 
-    print('<input type="submit" name="pastebutton" value="-- Paste --">')
+    print('<input type="submit" name="pastebutton" value="  ----  Paste  ----  ">')
 
     print('</form>')
 

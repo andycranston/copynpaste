@@ -99,7 +99,7 @@ def main():
 
     print('<br>')
 
-    print('<input type="submit" name="copybutton" value="-- Copy --">')
+    print('<input type="submit" name="copybutton" value="  ----  Copy  ----  ">')
 
     print('</form>')
 
